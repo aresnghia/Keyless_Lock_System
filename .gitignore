@@ -1,0 +1,35 @@
+# Quartus Prime build and intermediate artifacts
+db/
+incremental_db/
+output_files/
+hc_output/
+*.qws
+*.rpt
+*.chg
+*.htm
+*.eqn
+*.pin
+*.sof
+*.pof
+*.summary
+*.smsg
+*.done
+*.jdi
+
+# ModelSim / QuestaSim simulation artifacts
+simulation/
+work/
+transcript
+vsim.wlf
+*.wlf
+wlft*
+*.vstf
+*.cr.mti
+*.mpf
+
+# Backup and temporary files
+*.bak
+*~
+.DS_Store
+Thumbs.db
+*.tmp
