@@ -197,8 +197,9 @@ ce213-keyless-lock-system/
 
 ## 👥 Authors & Acknowledgments
 
-- **Course:** CE213 - Digital System Design (Thiết kế hệ thống số)
+- **Course:** CE213 - Digital System Design with HDL
 - **Institution:** University of Information Technology (UIT - VNU-HCM)
 - **Contributors:** 
   - Nghia ([@aresnghia](https://github.com/aresnghia))
   - Khoi
+  - Minh
